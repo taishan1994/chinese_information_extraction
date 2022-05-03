@@ -3,7 +3,8 @@
 
 数据、预训练模型、训练好得模型下载地址：<br>
 
-
+链接：https://pan.baidu.com/s/1TdJOF7vjLw4caE1SkZEZGA?pwd=gdpq <br>
+提取码：gdpq<br>
 
 说明：主要是将苏剑林的关于信息抽取的一些代码进行跑通并做了一些规划，具体实现可以去看一下他的文章，这里贴出地址：
 
