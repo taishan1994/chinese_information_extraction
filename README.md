@@ -1,7 +1,7 @@
 # chinese_information_extraction
 中文信息抽取，包含实体抽取、关系抽取、事件抽取。<br>
 
-数据、预训练模型、训练好得模型下载地址：<br>
+数据、预训练模型、训练好的模型下载地址：<br>
 
 链接：https://pan.baidu.com/s/1TdJOF7vjLw4caE1SkZEZGA?pwd=gdpq <br>
 提取码：gdpq<br>
