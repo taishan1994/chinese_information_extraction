@@ -57,7 +57,7 @@ valid_f1: 0.96122
 ```
 
 # 关系抽取
-这里需要安装最新版的keras4bert==0.11.3。这里我只训练了一个epoch，因此将优化器改为了Adam。主代码在re下，数据在data/re/duie/下。
+这里需要安装最新版的bert4keras==0.11.3。这里我只训练了一个epoch，因此将优化器改为了Adam。主代码在re下，数据在data/re/duie/下。
 
 ## casrel
 
